@@ -1,0 +1,6 @@
+{
+  "name": "MDZPX Mod FF",
+  "description": "Hệ thống đổi Mod Free Fire cập nhật liên tục ,
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
